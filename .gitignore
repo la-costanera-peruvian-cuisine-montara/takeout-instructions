@@ -1,0 +1,25 @@
+# User modified and generated files
+config.txt
+config.yml
+debbit_log.log
+state/
+failures/
+cookies/
+geckodriver*
+
+# pyinstaller
+__pycache__/
+build/
+dist/
+debbit.spec
+
+# GitHub Pages / Jekyll
+_site/
+.jekyll-cache/
+
+# Files on maintainer's machine
+.DS_Store
+.idea/
+.editorconfig
+notes.txt
+
